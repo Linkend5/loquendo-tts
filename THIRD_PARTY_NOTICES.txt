@@ -1,0 +1,20 @@
+Componentes de terceros incluidos en el paquete de descarga
+============================================================
+
+Piper (MIT)
+  https://github.com/rhasspy/piper
+
+eSpeak NG (GPL-3.0)
+  https://github.com/espeak-ng/espeak-ng
+  Codigo fuente y texto de la licencia en el enlace anterior (release 1.52.0).
+
+Voces de Piper (https://huggingface.co/rhasspy/piper-voices):
+  es_MX-ald-medium      - dataset Ald Mexican Spanish speech, licencia Unlicense (dominio publico)
+  es_MX-claude-high     - licencia Apache-2.0
+  es_ES-davefx-medium   - dataset OHF-Voice/voice-datasets, licencia CC0
+  es_ES-sharvard-medium - Sharvard corpus, Universidad de Edimburgo, licencia CC BY 3.0
+                          (https://datashare.ed.ac.uk/handle/10283/574)
+                          Atribucion: Aubanel et al., "The Sharvard Corpus", 2014.
+
+Este programa NO incluye ni usa el motor ni las voces originales de Loquendo.
+Loquendo es una marca de sus respectivos propietarios.

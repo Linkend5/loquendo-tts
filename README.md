@@ -12,7 +12,11 @@ hechas con motores libres y las voces de Windows.
 Incluye presets (Jorge, Diego, Carlos, Soledad, Francisca, Esperanza) que ajustan
 velocidad y tono de una voz base. Sin límite de caracteres: el texto se lee por trozos.
 
-## Uso
+## Descarga rapida
+Baja `LoquendoTTS-win64.zip` desde la seccion **Releases**, descomprimelo y abre `LoquendoTTS\LoquendoTTS.exe`. Ya incluye motores y voces.
+
+## Compilar desde el codigo
+### Pasos
 1. Ejecuta `setup.ps1` (descarga Piper, eSpeak NG y las voces; ~300 MB).
 2. Ejecuta `build.ps1` para compilar `LoquendoTTS.exe` (usa el compilador de .NET Framework incluido en Windows).
 3. Abre `LoquendoTTS.exe`.
