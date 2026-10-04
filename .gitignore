@@ -1,0 +1,7 @@
+piper/
+espeak/
+voces/
+_dl/
+espeak_tmp/
+*.exe
+*.wav
